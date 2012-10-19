@@ -4,13 +4,15 @@ F-Safe is a model checking langage prototype, based on Foetus.
 
 Its main goal is to provide a termination checking for every program written in F-Safe
 
-This a student project from Paris 6 university
+This a student project from Paris 6 university.
+
+This project has start on November 2011 and was completed in March 2012
 
 --------------------------------------------------------------------
                         Authors
 --------------------------------------------------------------------
 
-This is a project created by a group of student from the computer
+This is a project created by a group of 10 students from the computer
 science Master 2 STL speciality
 
 The project leader was G. B.
