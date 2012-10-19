@@ -1,4 +1,8 @@
-New fresh repository.
+F-Safe
+
+F-Safe is a model checking langage prototype, based on Foetus.
+
+Its main goal is to provide a termination checking for every program written in F-Safe
 
 
 --------------------------------------------------------------------
